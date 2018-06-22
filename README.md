@@ -3,7 +3,7 @@ SmartWeaver is a textile management application developed using Spring Boot wth 
 Its a maven project and respective pom.xml available in the repository.
 
 
-You cann use to play with spring boot and H2 db.
+You can use the code to play with spring boot and H2 db.
 
 
 Thanks ,
